@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security or privacy problem privately
+    url: https://github.com/selfkin/standards/security/advisories/new
+    about: Please do not open public issues for security or privacy problems.
+  - name: Discuss the standards
+    url: https://github.com/selfkin/standards/discussions
+    about: Questions and ideas about the drafts.

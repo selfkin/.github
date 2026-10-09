@@ -5,6 +5,7 @@
 > **Status: Draft, not for implementation. No certification program exists.** A trademark check for the name is pending.
 
 - **Standards repository:** [selfkin/standards](https://github.com/selfkin/standards) (runtime SK-RT, communication SK-COM, provider profiles SK-PRV, JSON Schemas, validator)
+- **Reference implementation:** [selfkin/reference](https://github.com/selfkin/reference) (draft Python code, not for production)
 - **Web page:** https://selfkin.github.io/standards/
 - **Discuss:** [GitHub Discussions](https://github.com/selfkin/standards/discussions)
 - **Contribute:** read [CONTRIBUTING.md](https://github.com/selfkin/standards/blob/main/CONTRIBUTING.md), pick an [open question](https://github.com/selfkin/standards/issues?q=is%3Aissue+is%3Aopen+label%3Aopen-question) or a [good first issue](https://github.com/selfkin/standards/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). Commits need a DCO sign-off.
