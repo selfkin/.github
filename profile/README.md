@@ -1,4 +1,4 @@
-# Selfkin
+# ATTENTION: Selfkin will moved shortly to [VAIEV](https://github.com/vaiev) [VAIEV/sidged](https://github.com/vaiev/sidged) -> Open standards, but better.
 
 **Open standards for personal AI on your own devices.** A personal AI runtime runs on hardware you own and becomes your interface to devices, apps, services, and other agents, with your data, credentials, and memory staying with you by default. Model-agnostic and vendor-neutral.
 
